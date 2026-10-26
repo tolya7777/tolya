@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.png"
   name             : "Tolya Vakaryuk"
   pronouns         : # example: "he/her"  
   bio              : "Hi! I'm Anatolii Vakaryuk, but you can call me Tolya. I'm a second year grad student in Mathematics looking to do some math."
