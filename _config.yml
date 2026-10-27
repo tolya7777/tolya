@@ -23,10 +23,10 @@ repository               : "tolya7777/tolya7777.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
-  name             : "Tolya Vakaryuk"
+  avatar           : "avakaryuk@binghamton.edu-2.jpg"
+  name             : "Anatolii Vakaryuk"
   pronouns         : # example: "he/her"  
-  bio              : "Hi! I'm Anatolii Vakaryuk, but you can call me Tolya. I'm a second year grad student in Mathematics looking to do some math."
+  bio              : "Hi! I'm Anatolii - I'm a second year grad student in Mathematics looking to specialize in Topological Data Analysis."
   location         : "Binghamton, New York"
   employer         : "Binghamton University"
   uri              : # URL
